@@ -1,4 +1,4 @@
-#  Covarrubias Gutierrez Brayan Omar
+#  Covarrubias Gutierrez Brayan Omar.
 from bs4 import BeautifulSoup as bs
 import requests
 import os
